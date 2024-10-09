@@ -19,7 +19,7 @@
 - npm install <a href="https://expressjs.com/en/starter/installing.html"> Express </a> <br>
 - npm install <a href="https://ejs.co/"> EJS </a> <br>
 - npm install <a href="https://www.npmjs.com/package/body-parser"> Body Parser </a> <br>
-- npm install <a href="https://www.npmjs.com/package/pg" >PG</a>
+- npm install <a href="https://www.npmjs.com/package/pg" >PG</a> <br>
 - node index.js <br>
 
 <hr>
