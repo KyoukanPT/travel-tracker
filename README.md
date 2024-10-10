@@ -46,3 +46,9 @@ family_member_id <br>
 
 - https://www.pgadmin.org/docs/pgadmin4/8.12/index.html
 - https://www.w3schools.com/sql/
+
+<hr>
+
+<h3>How to use the App?</h3>
+<p> - After having everything set up and running the app with Node, go to <a href="http://localhost:3000/">Localhost</a>. </p>
+<p> - Fill the input with a country of your choice. </p>
