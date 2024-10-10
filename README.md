@@ -29,16 +29,16 @@
 - Install pgadmin and create the following tables and attributes:
 
 <b>countries</b>
-id
-country_code
-country_name
+id <br>
+country_code <br>
+country_name <br>
 
 <b>visited_countries</b>
-countryid
-country_code
-family_member_id
+countryid <br>
+country_code <br>
+family_member_id <br>
 
-- Import "countries.csv" to pgadmin table "countries"
+- Import "countries.csv" to pgadmin table "countries" <br>
 
 <hr>
 
