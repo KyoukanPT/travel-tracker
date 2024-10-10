@@ -3,7 +3,7 @@ import bodyParser from "body-parser";
 import pg from "pg";
 
 const db = new pg.Client({
-  user: "YOUR USE NAME",
+  user: "YOUR USER NAME",
   host: "localhost",
   database: "YOUR DATABASE NAME",
   password: "YOUR PASSWORD",
