@@ -26,7 +26,7 @@
 
 <h3>Pre-Installation & Configurations </h3>
 - Download <a href="https://www.pgadmin.org/download/"> PG Admin </a> <br>
-- Install pgadmin and create the following tables and attributes: <br>
+- Install PG Admin and create the following tables and attributes: <br>
 
 <b>countries</b><br>
 id <br>
