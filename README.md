@@ -23,3 +23,6 @@
 - node index.js <br>
 
 <hr>
+
+<h3>Pre-Installation & Configurations </h3>
+- Download <a href="https://www.pgadmin.org/download/"> PG Admin </a> <br>
