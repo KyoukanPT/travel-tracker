@@ -35,8 +35,7 @@ country_name <br>
 
 <b>visited_countries</b><br>
 countryid <br>
-country_code <br>
-family_member_id <br><br>
+country_code <br><br>
 
 - Import "countries.csv" to pgadmin table "countries" <br>
 
