@@ -26,3 +26,23 @@
 
 <h3>Pre-Installation & Configurations </h3>
 - Download <a href="https://www.pgadmin.org/download/"> PG Admin </a> <br>
+- Install pgadmin and create the following tables and attributes:
+
+<b>countries</b>
+id
+country_code
+country_name
+
+<b>visited_countries</b>
+countryid
+country_code
+family_member_id
+
+- Import "countries.csv" to pgadmin table "countries"
+
+<hr>
+
+<h3> Documentation: </h3>
+
+- https://www.pgadmin.org/docs/pgadmin4/8.12/index.html
+- https://www.w3schools.com/sql/
