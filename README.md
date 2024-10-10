@@ -37,6 +37,7 @@ country_name <br>
 countryid <br>
 country_code <br>
 family_member_id <br>
+
 - Import "countries.csv" to pgadmin table "countries" <br>
 
 <hr>
